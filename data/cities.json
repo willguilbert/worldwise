@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "e039",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-23T03:12:42.800Z",
+      "notes": "wow madrid is insane ! ",
+      "position": {
+        "lat": "40.48038142908172",
+        "lng": "-3.6254882812500004"
+      }
+    },
+    {
+      "id": "4c80",
+      "cityName": "Les Valls de Valira",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-23T03:17:37.333Z",
+      "notes": "",
+      "position": {
+        "lat": "42.47209690919285",
+        "lng": "1.40625"
+      }
+    },
+    {
+      "id": "edff",
+      "cityName": "Nagykoros",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2024-09-23T03:23:16.367Z",
+      "notes": "",
+      "position": {
+        "lat": "47.040182144806664",
+        "lng": "19.775390625"
+      }
+    }
+  ]
+}
